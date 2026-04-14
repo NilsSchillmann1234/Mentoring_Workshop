@@ -1,4 +1,4 @@
-Hallo das ist ein Test.
+Hallo. Das ist eine korrigierte Titelzeile für einen Test.
 
 
 Und hier ist eine zweite Zeile.
